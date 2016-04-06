@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<kernelJOB>
+	<LevelTransmissionJob>
+		<hour>*</hour>
+		<minute>0,30</minute>
+		<seccond>0</seccond>
+		<enabled>0</enabled>
+	</LevelTransmissionJob>
+	<tempJob>
+		<hour>*</hour>
+		<minute>0,5,10,15,20,25,30,35,40,45,50,55</minute>
+		<seccond>0</seccond>
+		<enabled>0</enabled>
+	</tempJob>
+</kernelJOB>
